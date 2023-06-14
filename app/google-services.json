@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522524345115",
+    "project_id": "hostel-of-diu",
+    "storage_bucket": "hostel-of-diu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522524345115:android:45c9b99d545d5be1d289be",
+        "android_client_info": {
+          "package_name": "com.example.hostelofdiu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522524345115-hkpph97rvb34u32q1n5lna53bda44hcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvc0ffi4dVHmbkCEQ7gpDJnzRgAA16Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522524345115-hkpph97rvb34u32q1n5lna53bda44hcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

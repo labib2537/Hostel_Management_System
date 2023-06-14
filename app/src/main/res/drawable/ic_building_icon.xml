@@ -1,0 +1,16 @@
+<vector android:height="24dp" android:viewportHeight="360.51"
+    android:viewportWidth="360.51" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/diu_blue" android:pathData="M247.13,100.87V51.25h-59.38V0h-15v51.25h-59.38v49.62H89.2v259.64h182.12v-259.64C271.32,100.87 247.13,100.87 247.13,100.87zM128.38,66.25h103.75v34.62h-103.75V66.25zM256.32,345.51H104.2v-229.64h9.19h133.75h9.19L256.32,345.51L256.32,345.51z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M113.38,142.76h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M152.76,142.76h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M192.13,142.76h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M231.5,142.76h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M113.38,201.92h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M152.76,201.92h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M192.13,201.92h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M231.5,201.92h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M113.38,261.09h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M152.76,261.09h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M192.13,261.09h15v33.75h-15z"/>
+    <path android:fillColor="@color/diu_blue" android:pathData="M231.5,261.09h15v33.75h-15z"/>
+</vector>

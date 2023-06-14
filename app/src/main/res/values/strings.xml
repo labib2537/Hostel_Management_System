@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hostel.Inn</string>
+    <string name="login_page_txt_1">Login at Hostel.Inn</string>
+    <string name="login_page_txt_2">And Stay with us...</string>
+</resources>

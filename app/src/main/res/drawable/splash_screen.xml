@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/diu_blue"/>
+    <item android:drawable="@drawable/hostel_splash" android:gravity="center"
+        android:height="130dp" android:width="150dp"/>
+
+</layer-list>
